@@ -1,9 +1,13 @@
 This theme is based on the symbol of the balance scales.
 It illustrates Bountysource as a rewarding process.
 
+![Scales](./scales.jpg)
+
 The scales convey the idea of justice and measurement,
 of an equilibrium between sponsors and developers
 put on the same level by the Bountysource service.
+
+![Scales with Hourglasses and Weights](./scales-hourglasses-weights.jpg)
 
 The following copy could be associated with the illustration of the scales:
 
