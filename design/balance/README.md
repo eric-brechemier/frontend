@@ -35,3 +35,6 @@ Photograph in
 "Sustainability should not be consigned to history by Shared Value"  
 http://www.theguardian.com/sustainable-business/sustainability-with-john-elkington/shared-value-john-elkington-sustainability
 
+Hourglasses  
+http://en.wikipedia.org/wiki/Hourglasses
+
