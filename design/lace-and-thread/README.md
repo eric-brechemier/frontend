@@ -2,6 +2,8 @@ The lace and thread theme was inspired by the free form shape
 of the new Bountysource logo, which can be seen as drawn with
 pieces of lace or thread.
 
+![Lace and Thread](./lace-and-thread.jpg)
+
 The lace represents Bountysource as a link
 between developers and sponsors, between time and money,
 that fills a gap in open source.
