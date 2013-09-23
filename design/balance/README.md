@@ -9,6 +9,9 @@ put on the same level by the Bountysource service.
 
 ![Scales with Hourglasses and Weights](./scales-hourglasses-weights.jpg)
 
+In this more detailed illustration, each weight represents
+a sponsor's money and each hourglass a developer's time.
+
 The following copy could be associated with the illustration of the scales:
 
 ## Rewarding Open Source since 2006
