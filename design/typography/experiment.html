@@ -1,0 +1,194 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Typography Experiment</title>
+    <style>
+      body {
+        margin: 1em;
+      }
+
+      .block-box {
+        width: 50%;
+        float: left;
+      }
+
+      .block {
+        margin: 1em;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Typography Experiment</h1>
+    <p>
+      The goal of this experiment is to compare side by side
+      different combinations of fonts for display (headers) and
+      copy (main text).
+    </p>
+    <p>
+      The text below comes from the start of the FAQ page,
+      which features a mixture of different levels of headers
+      and copy including list items and links. Note that extra p elements,
+      not present in the original markup, have been inserted to delineate
+      paragraphs within dd elements more clearly.
+    </p>
+    <p>
+      The style of the fonts selected should be considered
+      in relation with the meaning of the text displayed,
+      in the specific context of the service.
+    </p>
+    <div class="block-box">
+      <div class="block">
+        <div class="style-selector">
+          <label>
+            Titles:
+            <select id="select-style-heading1">
+              <option name="bootstrap2-header">Bootstrap 2 default</option>
+              <option name="bootstrap3-header">Bootstrap 3 default</option>
+            </select>
+            Text:
+            <select id="select-style-copy1">
+              <option name="bootstrap2-header">Bootstrap 2 default</option>
+              <option name="bootstrap3-header">Bootstrap 3 default</option>
+            </select>
+          </label>
+        </div>
+        <h1>Frequently Asked Questions</h1>
+        <h2>General</h2>
+        <dl>
+          <dt>What is Bountysource?</dt>
+          <dd>
+            <p>
+              Bountysource is the funding platform for open-source software.
+              Users can improve the open-source projects they love by
+              creating/collecting bounties and pledging to fundraisers.
+            </p>
+          </dd>
+          <dt>What types of projects are allowed on Bountysource?</dt>
+          <dd>
+            <p>
+              Any type of Open-Source or Free Software (as in speech) projects are allowed. Generally speaking, any software
+              licenses approved by either the Open Source Initiative or the
+              Free Software Foundation are acceptable.
+            </p>
+            <p>
+              For a full list of OSI-approved licenses, please see
+              <a target="_blank"
+                href="http://opensource.org/licenses/alphabetical"
+              >http://opensource.org/licenses/alphabetical</a>.
+            </p>
+            <p>
+              For a full list of GNU licenses, please see
+              <a target="_blank"
+                href="http://www.gnu.org/licenses/"
+              >http://www.gnu.org/licenses/</a>.
+            </p>
+          </dd>
+          <dt>You mentioned Free Software.
+            How is that different from Open-Source?
+          </dt>
+          <dd>
+            <p>
+              Free Software and Open-Source software are, generally speaking,
+              two sides of the same coin. Both can be considered separate
+              movements within the same community, but with varying goals.
+              We suggest you read up on both sides yourself to better
+              understand them.
+          </dd>
+
+          <dd>
+            <ol>
+              <li>"Free Software":
+                <a target="_blank"
+                  href="http://www.gnu.org/philosophy/open-source-misses-the-point.html"
+                >http://www.gnu.org/philosophy/open-source-misses-the-point.html</a>
+              </li>
+              <li>"Open-Source":
+                <a target="_blank"
+                  href="http://opensource.org/faq#free-software"
+                >http://opensource.org/faq#free-software</a>
+              </li>
+            </ol>
+          </dd>
+        </dl>
+      </div>
+    </div>
+    <div class="block-box">
+      <div class="block">
+        <div class="style-selector">
+          <label>
+            Titles:
+            <select id="select-style-heading2">
+              <option name="bootstrap2-header">Bootstrap 2 default</option>
+              <option name="bootstrap3-header" selected="selected"
+              >Bootstrap 3 default</option>
+            </select>
+            Text:
+            <select id="select-style-copy2">
+              <option name="bootstrap2-copy">Bootstrap 2 default</option>
+              <option name="bootstrap3-copy" selected="selected"
+              >Bootstrap 3 default</option>
+            </select>
+          </label>
+        </div>
+        <h1>Frequently Asked Questions</h1>
+        <h2>General</h2>
+        <dl>
+          <dt>What is Bountysource?</dt>
+          <dd>
+            <p>
+              Bountysource is the funding platform for open-source software.
+              Users can improve the open-source projects they love by
+              creating/collecting bounties and pledging to fundraisers.
+            </p>
+          </dd>
+          <dt>What types of projects are allowed on Bountysource?</dt>
+          <dd>
+            <p>
+              Any type of Open-Source or Free Software (as in speech) projects are allowed. Generally speaking, any software
+              licenses approved by either the Open Source Initiative or the
+              Free Software Foundation are acceptable.
+            </p>
+            <p>
+              For a full list of OSI-approved licenses, please see
+              <a target="_blank"
+                href="http://opensource.org/licenses/alphabetical"
+              >http://opensource.org/licenses/alphabetical</a>.
+            </p>
+            <p>
+              For a full list of GNU licenses, please see
+              <a target="_blank"
+                href="http://www.gnu.org/licenses/"
+              >http://www.gnu.org/licenses/</a>.
+            </p>
+          </dd>
+          <dt>You mentioned Free Software.
+            How is that different from Open-Source?
+          </dt>
+          <dd>
+            <p>
+              Free Software and Open-Source software are, generally speaking,
+              two sides of the same coin. Both can be considered separate
+              movements within the same community, but with varying goals.
+              We suggest you read up on both sides yourself to better
+              understand them.
+          </dd>
+
+          <dd>
+            <ol>
+              <li>"Free Software":
+                <a target="_blank"
+                  href="http://www.gnu.org/philosophy/open-source-misses-the-point.html"
+                >http://www.gnu.org/philosophy/open-source-misses-the-point.html</a>
+              </li>
+              <li>"Open-Source":
+                <a target="_blank"
+                  href="http://opensource.org/faq#free-software"
+                >http://opensource.org/faq#free-software</a>
+              </li>
+            </ol>
+          </dd>
+        </dl>
+      </div>
+    </div>
+  </body>
+</html>
