@@ -1,0 +1,21 @@
+[submodule "design/assets/ostrich-sans"]
+	path = design/assets/ostrich-sans
+	url = git@github.com:theleagueof/ostrich-sans.git
+[submodule "design/assets/league-gothic"]
+	path = design/assets/league-gothic
+	url = git@github.com:theleagueof/league-gothic.git
+[submodule "design/assets/blackout"]
+	path = design/assets/blackout
+	url = git@github.com:theleagueof/blackout.git
+[submodule "design/assets/league-script-number-one"]
+	path = design/assets/league-script-number-one
+	url = git@github.com:theleagueof/league-script-number-one.git
+[submodule "design/assets/raleway"]
+	path = design/assets/raleway
+	url = git@github.com:theleagueof/raleway.git
+[submodule "design/assets/orbitron"]
+	path = design/assets/orbitron
+	url = git@github.com:theleagueof/orbitron.git
+[submodule "design/assets/junction"]
+	path = design/assets/junction
+	url = git@github.com:theleagueof/junction.git
