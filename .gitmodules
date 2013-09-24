@@ -19,3 +19,9 @@
 [submodule "design/assets/junction"]
 	path = design/assets/junction
 	url = git@github.com:theleagueof/junction.git
+[submodule "design/assets/bootstrap2"]
+	path = design/assets/bootstrap2
+	url = git@github.com:twbs/bootstrap.git
+[submodule "design/assets/bootstrap3"]
+	path = design/assets/bootstrap3
+	url = git@github.com:twbs/bootstrap.git
